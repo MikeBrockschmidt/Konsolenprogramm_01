@@ -8,7 +8,7 @@ void main() {
   print("---------------------------------------");
 
   // <------Frage 1
-  print("\n Wie viele Mitglieder hatte die MusikBand Genesis Anfang 1974?");
+  print("->Wie viele Mitglieder hatte die MusikBand Genesis Anfang 1974?");
   print("1) 4");
   print("2) 5");
   print("3) 3");
@@ -25,7 +25,7 @@ void main() {
 
   // <------Frage 2
   print(
-      "\n Wann veröffentlichen die Beatles ihre erste Nummer 1 Single in den USA??");
+      "->Wann veröffentlichen die Beatles ihre erste Nummer 1 Single in den USA??");
   print("1) 1963");
   print("2) 1970");
   print("3) 1985");
@@ -41,7 +41,7 @@ void main() {
   }
 
   // <------Frage 3**
-  print("\n Wie hieß der Sänger der 80er Jahre MusikBand Talk Talk??");
+  print("-> Wie hieß der Sänger der 80er Jahre MusikBand Talk Talk??");
   print("1) Mark Hollis");
   print("2) Mick Jagger");
   print("3) Steve Hogarth");
